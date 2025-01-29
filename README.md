@@ -1,6 +1,6 @@
 # ReservoirChat_Anonym
 
-Appendix of the project can be found in appendix.pdf.
+Appendix of the project can be found in [Appendix PDF](./appendix.pdf).
 
 ReservoirChat is a specialized AI model **powered by a Large Language Model (LLM)**. It uses a technique called **Retrieval-Augmented Generation (RAG)** to provide *accurate and hallucination-free informations*. It focuses on reservoir computing, and will use the reservoirPy library to code reservoirs. Reservoirs are a pool of randomly connected artificial neurons where, unlike the traditional neuron layers, only the readout layer, which is the last layer, is trained. It thus reduced the effective computational cost.
 
