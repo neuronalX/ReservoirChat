@@ -1,0 +1,48 @@
+The content of the folder 'Presentation_Training-Dataset' has been removed to maintain anonymity. However, the texts are freely available online.
+
+For reference, the following datasets represent incremental additions of scientific articles, progressing from Little to Big:
+- Little includes all documents from the Basic dataset plus 10 additional articles.
+- Medium includes all documents from the Little dataset plus 10 additional articles.
+- Big includes all documents from the Medium dataset plus 10 additional articles.
+
+Little :
+
+- Basic documents
+- nom2, X. (2022). Habilitation Thesis - Chapter on Reservoir Computing (Chapter 3, p. 17-23). HAL Archive : https://lab.hal.science/tel-03946773v1/file/nom22022_HDR_Habilitation-Thesis_HAL-v1.pdf
+- Jaeger, H. (2001, revised 2010). The “echo state” approach to analysing and training recurrent neural networks. GMD Report 148, German National Research Center for Information Technology : https://www.ai.rug.nl/minds/uploads/EchoStatesTechRep.pdf
+- Jaeger, H. (2002, revised 2013). A tutorial on training recurrent neural networks, covering BPTT, RTRL, EKF and the "echo state network" approach. GMD Report 159, German National Research Center for Information Technology : https://www.ai.rug.nl/minds/uploads/ESNTutorialRev.pdf
+- Jaeger, H. (2012). Long Short-Term Memory in Echo State Networks: Details of a Simulation Study. Technical Report No. 27, Jacobs University Bremen : https://www.ai.rug.nl/minds/uploads/2478_Jaeger12.pdf
+- Lukoševičius, M., & Jaeger, H. (2009). Reservoir computing approaches to recurrent neural network training. Computer science review, 3(3), 127-149 : https://www.sciencedirect.com/science/article/pii/S1574013709000173
+- Maass, W., Natschläger, T., & Markram, H. (2004). Computational models for generic cortical microcircuits. Computational neuroscience: A comprehensive approach, 18, 575-605 : https://igi-web.tugraz.at/PDF/149-v05.pdf
+- Maass, W. (2009). Motivation, Theory, and Applications of Liquid State Machines. Graz University of Technology : https://igi-web.tugraz.at/PDF/189.pdf
+- nom1, N., & nom2, X. (2022). ReservoirPy: A Simple and Flexible Reservoir Computing Tool in Python. HAL Archive : https://lab.hal.science/hal-03699931/document
+- Yildiz, I. B., Jaeger, H., & Kiebel, S. J. (2012). Re-visiting the echo state property. Neural networks, 35, 1-9 : https://www.ai.rug.nl/minds/uploads/2519_Yildizetal12.pdf
+- nom2, X., & nom1, N. (2021). Which Hype for my New Task? Hints and Random Search for Echo State Networks Hyperparameters. ICANN Conference. HAL Archive : https://lab.hal.science/hal-03203318
+
+Medium :
+
+- Little documents
+- Jaeger, H., Lukoševičius, M., Popovici, D., & Siewert, U. (2007). Optimization and Applications of Echo State Networks with Leaky Integrator Neurons. Neural Networks, 20(3), 335–352. DOI: 10.1016/j.neunet.2007.04.016​ : https://www.researchgate.net/profile/Mohamed-Mourad-Lafifi/post/Does-anybody-have-Echo-State-Network-ESN-matlab-code/attachment/5ab61ddeb53d2f0bba59fae3/AS%3A607642368086016%401521884638029/download/Optimization+and+Applications+of+Echo+State+Networks+with+Leaky+Integrator+Neurons.pdf
+- Jaeger, H. (2014). Controlling Recurrent Neural Networks by Conceptors. Technical Report No. 31, Jacobs University Bremen. arXiv:1403.3369v1 : https://arxiv.org/pdf/1403.3369
+- Grigoryeva, L., & Ortega, J. P. (2018). Echo state networks are universal. Neural Networks, 108, 495-508 : https://www.sciencedirect.com/science/article/pii/S089360801830251X
+- Fong, R. S., Li, B., & Tiňo, P. (2024). Universality of real minimal complexity reservoir. arXiv preprint arXiv:2408.08071 : https://arxiv.org/pdf/2408.08071
+- Strock, A., nom2, X., & Rougier, N. P. (2020). A robust model of gated working memory. Neural Computation, 32(1), 153-181 : https://www.biorxiv.org/content/10.1101/589564v2.full.pdf
+- Sussillo, D., & Abbott, L. F. (2009). Generating coherent patterns of activity from chaotic neural networks. Neuron, 63(4), 544-557 : https://www.cell.com/neuron/pdf/S0896-6273(09)00547-9.pdf
+- Verstraeten, D. (2009). Reservoir computing: computation with dynamical systems (Doctoral dissertation, Ghent University) : https://biblio.ugent.be/publication/779431/file/4335066.pdf
+- Ceni, A., & Gallicchio, C. (2024). Edge of Stability Echo State Network. IEEE Transactions on Neural Networks and Learning Systems : https://arxiv.org/pdf/2308.02902
+- Dambre, J., Verstraeten, D., Schrauwen, B., & Massar, S. (2012). Information processing capacity of dynamical systems. Scientific reports, 2(1), 514 : https://www.nature.com/articles/srep00514.pdf
+- Gallicchio, C., & Micheli, A. (2017). Deep echo state network (deepesn): A brief survey. arXiv preprint arXiv:1712.04323 : https://arxiv.org/pdf/1712.04323
+
+Big :
+
+- Medium documents
+- nom2, X., & Dominey, P. F. (2013). Real-time parallel processing of grammatical structure in the fronto-striatal system: A recurrent network simulation study using reservoir computing. PloS one, 8(2), e52946 : https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0052946&type=printable
+- Kong, L. W., Weng, Y., Glaz, B., Haile, M., & Lai, Y. C. (2022). Digital twins of nonlinear dynamical systems. arXiv preprint arXiv:2210.06144 : https://arxiv.org/pdf/2210.06144
+- Nakajima, K. (2020). Physical reservoir computing—an introductory perspective. Japanese Journal of Applied Physics, 59(6), 060501 : https://arxiv.org/pdf/2005.00992
+- Kong, L. W., Weng, Y., Glaz, B., Haile, M., & Lai, Y. C. (2023). Reservoir computing as digital twins for nonlinear dynamical systems. Chaos: An Interdisciplinary Journal of Nonlinear Science, 33(3) : https://pubs.aip.org/aip/cha/article/33/3/033111/2881229
+- Seoane, L. F. (2019). Evolutionary aspects of reservoir computing. Philosophical Transactions of the Royal Society B, 374(1774), 20180377 : https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2018.0377?download=true
+- Van der Sande, G., Brunner, D., & Soriano, M. C. (2017). Advances in photonic reservoir computing. Nanophotonics, 6(3), 561-576 : https://www.degruyter.com/document/doi/10.1515/nanoph-2016-0132/pdf
+- Yan, M., Huang, C., Bienstman, P., Tino, P., Lin, W., & Sun, J. (2024). Emerging opportunities and challenges for the future of reservoir computing. Nature Communications, 15(1), 2056 : https://www.nature.com/articles/s41467-024-45187-1.pdf
+- Dale, M., Miller, J. F., Stepney, S., & Trefzer, M. A. (2019). A substrate-independent framework to characterize reservoir computers. Proceedings of the Royal Society A, 475(2226), 20180723 : https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.2018.0723
+- DePasquale, B., Cueva, C. J., Rajan, K., Escola, G. S., & Abbott, L. F. (2018). full-FORCE: A target-based method for training recurrent networks. PloS one, 13(2), e0191527 : https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0191527&type=printable
+- Gauthier, D. J., Bollt, E., Griffith, A., & Barbosa, W. A. (2021). Next generation reservoir computing. Nature communications, 12(1), 1-8 : https://www.nature.com/articles/s41467-021-25801-2.
