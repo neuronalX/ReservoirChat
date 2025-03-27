@@ -32,15 +32,8 @@ Continuous addition of new scientific publications to the knowledge graph will k
 
 For more details, please refer to the research paper:
 
-```
-@inproceedings{reservoirchat,
-  title={ReservoirChat: Interactive Documentation Enhanced with LLM and Knowledge Graph for ReservoirPy},
-  author={Virgile Boraud, Yannis Bendi-Ouis, Paul Bernard, Xavier Hinaut},
-  booktitle={IEEE Conference},
-  year={2025},
-  organization={IEEE}
-}
-```
+PUBLICATION IN PROGRESS...
+
 
 ## License
 
