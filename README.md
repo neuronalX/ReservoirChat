@@ -1,5 +1,7 @@
 # ReservoirChat
 
+📄 [Arxiv Paper](https://www.arxiv.org/abs/2507.05279)  
+
 ReservoirChat is a specialized AI model designed to enhance coding assistance and provide accurate answers to complex questions in the field of Reservoir Computing. This project leverages a Large Language Model (LLM) augmented with Retrieval-Augmented Generation (RAG) and Knowledge Graphs to reduce hallucinations and improve the reliability of generated responses.
 
 ## Overview
@@ -30,9 +32,15 @@ Continuous addition of new scientific publications to the knowledge graph will k
 
 ## Reference
 
-For more details, please refer to the research paper:
-
-PUBLICATION IN PROGRESS...
+> @misc{boraud2025reservoirchatinteractivedocumentationenhanced,  
+>       title={ReservoirChat: Interactive Documentation Enhanced with LLM and Knowledge Graph for ReservoirPy},   
+>       author={Virgile Boraud and Yannis Bendi-Ouis and Paul Bernard and Xavier Hinaut},  
+>       year={2025},  
+>       eprint={2507.05279},  
+>       archivePrefix={arXiv},  
+>       primaryClass={cs.SE},  
+>       url={https://arxiv.org/abs/2507.05279},   
+> }
 
 
 ## License
