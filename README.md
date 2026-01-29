@@ -39,7 +39,7 @@ Continuous addition of new scientific publications to the knowledge graph will k
 >       eprint={2507.05279},  
 >       archivePrefix={arXiv},  
 >       primaryClass={cs.SE},  
->       url={https://arxiv.org/abs/2507.05279},   
+>       url={ https://arxiv.org/abs/2507.05279 },   
 > }
 
 
@@ -53,4 +53,4 @@ This work was supported by Inria and the Mnemosyne project.
 
 ---
 
-For more information, please visit the [ReservoirChat website](https://chat.reservoirpy.inria.fr/).
+ReservoirChat was run as a freely accessible service on the servers of Inria, Bordeaux, France. It WAS accessible at this link: [ReservoirChat website](https://chat.reservoirpy.inria.fr/). (No longer accessible, if you are interested by similar approaches, contact @Naowak and @neuronalX)
